@@ -17,20 +17,20 @@ La aplicación se llama Isabela  y nos da multitud de información sobre la tecn
 
 ![image](https://github.com/Alecamilo/Alecamilo-AlecamiloIsabela.github.io/assets/144721589/dd7990dc-b8be-4d82-ada2-c5941af3a6ff)
 
-Y el login de una web era lo primero que se le mostraba a un usuario y register 
+Y el login de una web era lo primero que se le mostraba a un usuario y register.
 
 ![image](https://github.com/Alecamilo/Alecamilo-AlecamiloIsabela.github.io/assets/144721589/d3c23815-f211-4ba2-847d-04f4d8f0f416)
 
 ![image](https://github.com/Alecamilo/Alecamilo-AlecamiloIsabela.github.io/assets/144721589/049462ea-3fb0-44f1-80ce-6ac2f883f31f)
 
 
-Un dashboard de salud es una herramienta que toma los datos y los presenta en una sola pantalla, reuniendo información de múltiples plataformas y actualizando sus visualizaciones de datos en tiempo real en table de Pacientes , tabla de Medicos , table de Citas , tabla de diagnosticos y tabla de Tratamientos
+Un dashboard de salud es una herramienta que toma los datos y los presenta en una sola pantalla, reuniendo información de múltiples plataformas y actualizando sus visualizaciones de datos en tiempo real en table de Pacientes , tabla de Medicos , table de Citas , tabla de diagnosticos y tabla de Tratamientos.
 
 ![image](https://github.com/Alecamilo/Alecamilo-AlecamiloIsabela.github.io/assets/144721589/d6f6ab9f-7483-46c2-9f2b-b6f4963eaa34)
 
 
 
-Un dashboard nuevo registar de salud es una herramienta que toma los datos y los presenta en una sola pantalla y realiza un seguimiento de los niveles de satisfacción de los pacientes, la duración media de la estancia y los tiempos de respuesta
+Un dashboard nuevo registar de salud es una herramienta que toma los datos y los presenta en una sola pantalla y realiza un seguimiento de los niveles de satisfacción de los pacientes, la duración media de la estancia y los tiempos de respuesta.
 
 ![image](https://github.com/Alecamilo/Alecamilo-AlecamiloIsabela.github.io/assets/144721589/f4f8b894-3855-4aec-8ae5-6073af7c1377) 
 
@@ -39,7 +39,7 @@ Conoce el estado y el rendimiento del área de urgencias con un dashboard de asi
 ![image](https://github.com/Alecamilo/Alecamilo-AlecamiloIsabela.github.io/assets/144721589/c9f329b8-36e5-4bf2-b339-0214c848ce3f)
 
 
-Ya nn dashboard es una herramienta de gestión de la información que monitoriza, analiza y muestra de manera visual los indicadores clave de desempeño.
+Ya un dashboard es una herramienta de gestión de la información que monitoriza, analiza y muestra de manera visual los indicadores clave de desempeño.
 
 ![image](https://github.com/Alecamilo/Alecamilo-AlecamiloIsabela.github.io/assets/144721589/27babb2d-42c0-41c5-91e7-0b73d32b690d) 
 
